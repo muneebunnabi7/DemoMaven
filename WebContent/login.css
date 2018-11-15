@@ -1,0 +1,86 @@
+@CHARSET "ISO-8859-1";
+body, html{
+     height: 100%;
+ 	
+ 	background-color: #f2eceb;
+ 	font-family: 'Oxygen', sans-serif;
+}
+
+.container{
+	
+ 	padding: 40px 40px 40px 40px;
+ 	background-color: #e3d2cf;
+ 	font-family: 'Oxygen', sans-serif;
+}
+
+.main{
+ 	margin-top: 70px;
+}
+
+h1.title { 
+	font-size: 50px;
+	font-family: 'Passion One', cursive; 
+	font-weight: 400; 
+    text-align: center;
+    background-color: #c0c0c0;
+     padding: 40px 40px ;
+}
+
+hr{
+	width: 10%;
+	color: #fff;
+}
+
+.check{
+    padding-top: 10px;
+    text-align:center;
+}
+
+.button{
+	margin-bottom: 15px;
+    padding-left: 50px;
+}
+
+label{
+	margin-bottom: 15px;
+}
+
+input,
+input::-webkit-input-placeholder {
+    font-size: 11px;
+    padding-top: 3px;
+}
+
+.input-group{
+	padding-top: 10spx;
+}
+.main-login{
+ 	background-color: #fff;
+    /* shadows and rounded borders */
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    padding: 40px 40px ;
+
+}
+
+.main-center{
+ 	margin-top: 30px;
+ 	margin: 0 auto;
+ 	max-width: 330px;
+    padding: 40px 40px;
+
+}
+
+.login-button{
+	margin-top: 5px;
+}
+
+.register{
+	font-size: 15px;
+	text-align: center;
+	 padding-top: 10px;
+}

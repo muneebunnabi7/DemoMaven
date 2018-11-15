@@ -1,0 +1,12 @@
+@CHARSET "ISO-8859-1";
+body, html{
+     height: 100%;
+}
+.panel-heading{
+width:100%;
+height:40%;	
+padding-top: 20px ;
+padding-bottom:20px;
+background-color: #c0c0c0;
+
+}
